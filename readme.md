@@ -99,9 +99,9 @@ The API uses JWT-based authentication and supports CRUD operations for managing 
 ## Swagger API Documentation
 
 You can view the automatically generated API documentation at:
-    ```bash
+
     http://127.0.0.1:8000/swagger/
-    ```
+
 
 
 ## Testing the API
